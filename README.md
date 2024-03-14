@@ -18,9 +18,9 @@
 ### Результати виконання:
 
 ```
-Maximized Total Products: 35.00
+Maximized Total Products: 50.00
 Lemonade: 30.00 units
-Fruit Juice: 5.00 units
+Fruit Juice: 20.00 units
 ```
 
 ## Завдання 2. Обчислення визначеного інтеграла.

@@ -14,7 +14,7 @@ problem += x1 + x2, "Total_Products"
 problem += 2 * x1 + x2 <= 100, "Water"
 problem += x1 <= 50, "Sugar"
 problem += x1 <= 30, "Lemon_Juice"
-problem += 2 * x2 + x1 <= 40, "Fruit_Puree"
+problem += 2 * x2 <= 40, "Fruit_Puree"
 
 # Вирішення задачі
 problem.solve()
